@@ -28,6 +28,3 @@ Notes
 - The implementation assumes the use of OpenAI Gym and PyTorch (or NumPy-based networks depending on `DDPG.py`).
 - Adjust hyperparameters inside `DDPG.py` or the example scripts for experimentation.
 
-License
-
-Add a license as needed.
